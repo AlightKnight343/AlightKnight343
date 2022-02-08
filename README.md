@@ -1,6 +1,9 @@
 ### Hi there I'm Yash👋
 
+### Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **AlightKnight343/AlightKnight343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
