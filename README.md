@@ -15,8 +15,7 @@
 
 ## Skills
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<!--
+<img alt="svgImg" src="data:image/svg+xml;base64,"/><!--
 **AlightKnight343/AlightKnight343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
