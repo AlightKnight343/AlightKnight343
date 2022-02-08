@@ -37,7 +37,7 @@
 
 <img src="https://img.icons8.com/ios-filled/48/000000/solidity.png"/> <img src="https://img.icons8.com/dusk/48/000000/ethereum.png"/>
 
-
+Thanks for reading this! Have a great day!
 
 <!--
 **AlightKnight343/AlightKnight343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
