@@ -17,10 +17,7 @@
 
 #### Programming Languages
 
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"/>
-
+<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
 
 <!--
 **AlightKnight343/AlightKnight343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
