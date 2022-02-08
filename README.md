@@ -7,7 +7,7 @@
 
 ### Github Stats
 
-<img align="center">[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</img>
+<img src="[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" align="center"></img>
 
 <img align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats) </img>
 <img align="center"> [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats) </img>
