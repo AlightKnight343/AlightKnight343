@@ -13,7 +13,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%2B%2B.svg" size="10px">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
 
 <!--
 **AlightKnight343/AlightKnight343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
