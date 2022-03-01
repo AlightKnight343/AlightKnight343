@@ -11,8 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlightKnight343&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
 ## Skills
 
 #### Programming Languages
